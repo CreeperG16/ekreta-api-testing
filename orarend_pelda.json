@@ -1,0 +1,1212 @@
+[
+  {
+    "Uid": "3842340,OrarendiOra,2022-09-04T22:00:00Z",
+    "Datum": "2022-09-04T22:00:00Z",
+    "KezdetIdopont": "2022-09-05T07:55:00Z",
+    "VegIdopont": "2022-09-05T08:40:00Z",
+    "Nev": "Irodalom",
+    "Oraszam": 3,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Takáts Erika dr.",
+    "Tantargy": {
+      "Uid": "425124",
+      "Nev": "Irodalom",
+      "Kategoria": {
+        "Uid": "1198,magyar_nyelv_es_irodalom",
+        "Nev": "magyar_nyelv_es_irodalom",
+        "Leiras": "Magyar nyelv és irodalom"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3842342,OrarendiOra,2022-09-04T22:00:00Z",
+    "Datum": "2022-09-04T22:00:00Z",
+    "KezdetIdopont": "2022-09-05T06:55:00Z",
+    "VegIdopont": "2022-09-05T07:40:00Z",
+    "Nev": "Matematika",
+    "Oraszam": 2,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Hartung Ferencné Dr.",
+    "Tantargy": {
+      "Uid": "425127",
+      "Nev": "Matematika",
+      "Kategoria": {
+        "Uid": "1210,matematika",
+        "Nev": "matematika",
+        "Leiras": "Matematika"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3843444,OrarendiOra,2022-09-04T22:00:00Z",
+    "Datum": "2022-09-04T22:00:00Z",
+    "KezdetIdopont": "2022-09-05T06:00:00Z",
+    "VegIdopont": "2022-09-05T06:45:00Z",
+    "Nev": "Történelem",
+    "Oraszam": 1,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "140400",
+      "Nev": "9.B - töri"
+    },
+    "TanarNeve": "Arnhoffer Ferenc",
+    "Tantargy": {
+      "Uid": "425177",
+      "Nev": "Történelem",
+      "Kategoria": {
+        "Uid": "6754,Tortenelem",
+        "Nev": "Tortenelem",
+        "Leiras": "Történelem"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-02T13:25:00",
+    "UtolsoModositas": "2022-09-02T13:25:00"
+  },
+  {
+    "Uid": "3842338,OrarendiOra,2022-09-05T22:00:00Z",
+    "Datum": "2022-09-05T22:00:00Z",
+    "KezdetIdopont": "2022-09-06T09:50:00Z",
+    "VegIdopont": "2022-09-06T10:35:00Z",
+    "Nev": "Irodalom",
+    "Oraszam": 5,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Takáts Erika dr.",
+    "Tantargy": {
+      "Uid": "425124",
+      "Nev": "Irodalom",
+      "Kategoria": {
+        "Uid": "1198,magyar_nyelv_es_irodalom",
+        "Nev": "magyar_nyelv_es_irodalom",
+        "Leiras": "Magyar nyelv és irodalom"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3842345,OrarendiOra,2022-09-05T22:00:00Z",
+    "Datum": "2022-09-05T22:00:00Z",
+    "KezdetIdopont": "2022-09-06T07:55:00Z",
+    "VegIdopont": "2022-09-06T08:40:00Z",
+    "Nev": "Fizika",
+    "Oraszam": 3,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Schwarczné Vánik Edit",
+    "Tantargy": {
+      "Uid": "425383",
+      "Nev": "Fizika",
+      "Kategoria": {
+        "Uid": "1219,fizika",
+        "Nev": "fizika",
+        "Leiras": "Fizika"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3842347,OrarendiOra,2022-09-05T22:00:00Z",
+    "Datum": "2022-09-05T22:00:00Z",
+    "KezdetIdopont": "2022-09-06T06:00:00Z",
+    "VegIdopont": "2022-09-06T06:45:00Z",
+    "Nev": "Kémia",
+    "Oraszam": 1,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Roznerné Nándorfy Nóra",
+    "Tantargy": {
+      "Uid": "425385",
+      "Nev": "Kémia",
+      "Kategoria": {
+        "Uid": "1220,kemia",
+        "Nev": "kemia",
+        "Leiras": "Kémia"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3842348,OrarendiOra,2022-09-05T22:00:00Z",
+    "Datum": "2022-09-05T22:00:00Z",
+    "KezdetIdopont": "2022-09-06T06:55:00Z",
+    "VegIdopont": "2022-09-06T07:40:00Z",
+    "Nev": "Biológia-egészségtan",
+    "Oraszam": 2,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Dombiné Ujhidy Klára",
+    "Tantargy": {
+      "Uid": "425619",
+      "Nev": "Biológia-egészségtan",
+      "Kategoria": {
+        "Uid": "1197,na",
+        "Nev": "na",
+        "Leiras": "Na"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3843143,OrarendiOra,2022-09-05T22:00:00Z",
+    "Datum": "2022-09-05T22:00:00Z",
+    "KezdetIdopont": "2022-09-06T11:40:00Z",
+    "VegIdopont": "2022-09-06T12:25:00Z",
+    "Nev": "Vizuális kultúra",
+    "Oraszam": 7,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Papp Erzsébet",
+    "Tantargy": {
+      "Uid": "425393",
+      "Nev": "Vizuális kultúra",
+      "Kategoria": {
+        "Uid": "1226,VizualisKultura",
+        "Nev": "VizualisKultura",
+        "Leiras": "Vizuális kultúra"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3843442,OrarendiOra,2022-09-05T22:00:00Z",
+    "Datum": "2022-09-05T22:00:00Z",
+    "KezdetIdopont": "2022-09-06T10:45:00Z",
+    "VegIdopont": "2022-09-06T11:30:00Z",
+    "Nev": "Osztályfőnöki",
+    "Oraszam": 6,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Arnhoffer Ferenc",
+    "Tantargy": {
+      "Uid": "425141",
+      "Nev": "Osztályfőnöki",
+      "Kategoria": {
+        "Uid": "1242,egyeb",
+        "Nev": "egyeb",
+        "Leiras": "Egyéb"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-02T13:21:00",
+    "UtolsoModositas": "2022-09-02T13:21:00"
+  },
+  {
+    "Uid": "3841991,OrarendiOra,2022-09-06T22:00:00Z",
+    "Datum": "2022-09-06T22:00:00Z",
+    "KezdetIdopont": "2022-09-07T06:00:00Z",
+    "VegIdopont": "2022-09-07T06:45:00Z",
+    "Nev": "Hittan",
+    "Oraszam": 1,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Zsilinszky Cecília",
+    "Tantargy": {
+      "Uid": "425128",
+      "Nev": "Hittan",
+      "Kategoria": {
+        "Uid": "1213,EtikaHitEsErkolcstanHittan",
+        "Nev": "EtikaHitEsErkolcstanHittan",
+        "Leiras": "Etika, hit- és erkölcstan, hittan"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3842349,OrarendiOra,2022-09-06T22:00:00Z",
+    "Datum": "2022-09-06T22:00:00Z",
+    "KezdetIdopont": "2022-09-07T09:50:00Z",
+    "VegIdopont": "2022-09-07T10:35:00Z",
+    "Nev": "Biológia-egészségtan",
+    "Oraszam": 5,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Dombiné Ujhidy Klára",
+    "Tantargy": {
+      "Uid": "425619",
+      "Nev": "Biológia-egészségtan",
+      "Kategoria": {
+        "Uid": "1197,na",
+        "Nev": "na",
+        "Leiras": "Na"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3843441,OrarendiOra,2022-09-06T22:00:00Z",
+    "Datum": "2022-09-06T22:00:00Z",
+    "KezdetIdopont": "2022-09-07T10:45:00Z",
+    "VegIdopont": "2022-09-07T11:30:00Z",
+    "Nev": "Nyelvtan",
+    "Oraszam": 6,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Takáts Erika dr.",
+    "Tantargy": {
+      "Uid": "425125",
+      "Nev": "Nyelvtan",
+      "Kategoria": {
+        "Uid": "1198,magyar_nyelv_es_irodalom",
+        "Nev": "magyar_nyelv_es_irodalom",
+        "Leiras": "Magyar nyelv és irodalom"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-02T13:18:00",
+    "UtolsoModositas": "2022-09-02T13:18:00"
+  },
+  {
+    "Uid": "3843443,OrarendiOra,2022-09-06T22:00:00Z",
+    "Datum": "2022-09-06T22:00:00Z",
+    "KezdetIdopont": "2022-09-07T07:55:00Z",
+    "VegIdopont": "2022-09-07T08:40:00Z",
+    "Nev": "Történelem",
+    "Oraszam": 3,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "140400",
+      "Nev": "9.B - töri"
+    },
+    "TanarNeve": "Arnhoffer Ferenc",
+    "Tantargy": {
+      "Uid": "425177",
+      "Nev": "Történelem",
+      "Kategoria": {
+        "Uid": "6754,Tortenelem",
+        "Nev": "Tortenelem",
+        "Leiras": "Történelem"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-02T13:24:00",
+    "UtolsoModositas": "2022-09-02T13:24:00"
+  },
+  {
+    "Uid": "3841992,OrarendiOra,2022-09-07T22:00:00Z",
+    "Datum": "2022-09-07T22:00:00Z",
+    "KezdetIdopont": "2022-09-08T10:45:00Z",
+    "VegIdopont": "2022-09-08T11:30:00Z",
+    "Nev": "Hittan",
+    "Oraszam": 6,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Zsilinszky Cecília",
+    "Tantargy": {
+      "Uid": "425128",
+      "Nev": "Hittan",
+      "Kategoria": {
+        "Uid": "1213,EtikaHitEsErkolcstanHittan",
+        "Nev": "EtikaHitEsErkolcstanHittan",
+        "Leiras": "Etika, hit- és erkölcstan, hittan"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3842339,OrarendiOra,2022-09-07T22:00:00Z",
+    "Datum": "2022-09-07T22:00:00Z",
+    "KezdetIdopont": "2022-09-08T06:00:00Z",
+    "VegIdopont": "2022-09-08T06:45:00Z",
+    "Nev": "Irodalom",
+    "Oraszam": 1,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Takáts Erika dr.",
+    "Tantargy": {
+      "Uid": "425124",
+      "Nev": "Irodalom",
+      "Kategoria": {
+        "Uid": "1198,magyar_nyelv_es_irodalom",
+        "Nev": "magyar_nyelv_es_irodalom",
+        "Leiras": "Magyar nyelv és irodalom"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3842343,OrarendiOra,2022-09-07T22:00:00Z",
+    "Datum": "2022-09-07T22:00:00Z",
+    "KezdetIdopont": "2022-09-08T07:55:00Z",
+    "VegIdopont": "2022-09-08T08:40:00Z",
+    "Nev": "Matematika",
+    "Oraszam": 3,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Hartung Ferencné Dr.",
+    "Tantargy": {
+      "Uid": "425127",
+      "Nev": "Matematika",
+      "Kategoria": {
+        "Uid": "1210,matematika",
+        "Nev": "matematika",
+        "Leiras": "Matematika"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3842346,OrarendiOra,2022-09-07T22:00:00Z",
+    "Datum": "2022-09-07T22:00:00Z",
+    "KezdetIdopont": "2022-09-08T06:55:00Z",
+    "VegIdopont": "2022-09-08T07:40:00Z",
+    "Nev": "Fizika",
+    "Oraszam": 2,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Schwarczné Vánik Edit",
+    "Tantargy": {
+      "Uid": "425383",
+      "Nev": "Fizika",
+      "Kategoria": {
+        "Uid": "1219,fizika",
+        "Nev": "fizika",
+        "Leiras": "Fizika"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3842350,OrarendiOra,2022-09-07T22:00:00Z",
+    "Datum": "2022-09-07T22:00:00Z",
+    "KezdetIdopont": "2022-09-08T08:55:00Z",
+    "VegIdopont": "2022-09-08T09:40:00Z",
+    "Nev": "Biológia-egészségtan",
+    "Oraszam": 4,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Dombiné Ujhidy Klára",
+    "Tantargy": {
+      "Uid": "425619",
+      "Nev": "Biológia-egészségtan",
+      "Kategoria": {
+        "Uid": "1197,na",
+        "Nev": "na",
+        "Leiras": "Na"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3842352,OrarendiOra,2022-09-07T22:00:00Z",
+    "Datum": "2022-09-07T22:00:00Z",
+    "KezdetIdopont": "2022-09-08T09:50:00Z",
+    "VegIdopont": "2022-09-08T10:35:00Z",
+    "Nev": "Földrajz",
+    "Oraszam": 5,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Fliegh Áron",
+    "Tantargy": {
+      "Uid": "425387",
+      "Nev": "Földrajz",
+      "Kategoria": {
+        "Uid": "1223,FoldunkKornyezetunk",
+        "Nev": "FoldunkKornyezetunk",
+        "Leiras": "Földünk – környezetünk"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3842344,OrarendiOra,2022-09-08T22:00:00Z",
+    "Datum": "2022-09-08T22:00:00Z",
+    "KezdetIdopont": "2022-09-09T09:50:00Z",
+    "VegIdopont": "2022-09-09T10:35:00Z",
+    "Nev": "Matematika",
+    "Oraszam": 5,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Hartung Ferencné Dr.",
+    "Tantargy": {
+      "Uid": "425127",
+      "Nev": "Matematika",
+      "Kategoria": {
+        "Uid": "1210,matematika",
+        "Nev": "matematika",
+        "Leiras": "Matematika"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3842351,OrarendiOra,2022-09-08T22:00:00Z",
+    "Datum": "2022-09-08T22:00:00Z",
+    "KezdetIdopont": "2022-09-09T06:00:00Z",
+    "VegIdopont": "2022-09-09T06:45:00Z",
+    "Nev": "Földrajz",
+    "Oraszam": 1,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Fliegh Áron",
+    "Tantargy": {
+      "Uid": "425387",
+      "Nev": "Földrajz",
+      "Kategoria": {
+        "Uid": "1223,FoldunkKornyezetunk",
+        "Nev": "FoldunkKornyezetunk",
+        "Leiras": "Földünk – környezetünk"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  },
+  {
+    "Uid": "3842353,OrarendiOra,2022-09-08T22:00:00Z",
+    "Datum": "2022-09-08T22:00:00Z",
+    "KezdetIdopont": "2022-09-09T06:55:00Z",
+    "VegIdopont": "2022-09-09T07:40:00Z",
+    "Nev": "Ének-zene",
+    "Oraszam": 2,
+    "OraEvesSorszama": 1,
+    "OsztalyCsoport": {
+      "Uid": "139765",
+      "Nev": "9.B"
+    },
+    "TanarNeve": "Zsilinszky Cecília",
+    "Tantargy": {
+      "Uid": "425395",
+      "Nev": "Ének-zene",
+      "Kategoria": {
+        "Uid": "1224,enek_zene",
+        "Nev": "enek_zene",
+        "Leiras": "Ének-zene"
+      },
+      "SortIndex": 0
+    },
+    "Tema": null,
+    "TeremNeve": "A5",
+    "Tipus": {
+      "Uid": "1,OrarendiOra",
+      "Nev": "OrarendiOra",
+      "Leiras": "Órarendi óra"
+    },
+    "TanuloJelenlet": {
+      "Uid": "1497,Na",
+      "Nev": "Na",
+      "Leiras": "Nem definiált"
+    },
+    "Allapot": {
+      "Uid": "2,Nem_naplozott",
+      "Nev": "Nem_naplozott",
+      "Leiras": "Nem naplózott"
+    },
+    "HelyettesTanarNeve": null,
+    "HaziFeladatUid": null,
+    "FeladatGroupUid": null,
+    "NyelviFeladatGroupUid": null,
+    "BejelentettSzamonkeresUid": null,
+    "IsTanuloHaziFeladatEnabled": false,
+    "IsHaziFeladatMegoldva": false,
+    "Csatolmanyok": [],
+    "IsDigitalisOra": false,
+    "DigitalisEszkozTipus": null,
+    "DigitalisPlatformTipus": null,
+    "DigitalisTamogatoEszkozTipusList": [],
+    "Letrehozas": "2022-09-01T16:33:00",
+    "UtolsoModositas": "2022-09-01T16:33:00"
+  }
+]
