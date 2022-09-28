@@ -2,11 +2,7 @@ const axios = require("axios");
 const qs = require("qs");
 const crypto = require("crypto");
 
-const loginData = {
-  userName: "73479980529",
-  password: "2006-09-23",
-  institute_code: "padanyi",
-};
+const loginData = require("./config.json");
 
 (async () => {
   // const { data: urls } = await axios({
